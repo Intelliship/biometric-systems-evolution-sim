@@ -1,1 +1,1 @@
-This file will track optimization strategies used to ensure biometric matching services meet performance thresholds in non-production testing.
+# Accuracy Optimization\n\n- True Positive Rate\n- False Accept/Reject thresholds\n- Biometric matching latency targets

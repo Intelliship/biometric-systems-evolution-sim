@@ -1,1 +1,1 @@
-Initial draft of message discrepancy metrics and parallel operations analysis to support functional and non-functional system validation.
+# Message Comparison Metrics\n\n- Expected vs Actual JSON structure\n- Match status codes\n- Latency thresholds

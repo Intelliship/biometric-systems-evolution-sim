@@ -1,1 +1,1 @@
-This outlines a proposed technology refresh cycle across the biometric system’s hardware and software stack to mitigate obsolescence.
+# Technology Refresh Plan\n\n- Annual cloud service review\n- Biometric algorithm updates\n- Message schema version control
